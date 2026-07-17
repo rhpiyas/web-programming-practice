@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.text{
+    color: orangered;
+    background-color: rgb(43, 251, 7);
+    font-family: monospace;
+    text-transform: uppercase;
+    border: 5px rgb(19, 28, 202) solid;
+}
