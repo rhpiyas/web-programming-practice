@@ -16,4 +16,17 @@ function next()
     }
 }
 
+function prev()
+{
+    --count;
+
+    if(count < 0)
+    {
+        count = img.length - 1;
+    }
+
+    target.src = img[count]
+}
+
 bt1.onclick = next
+bt2.onclick = prev
