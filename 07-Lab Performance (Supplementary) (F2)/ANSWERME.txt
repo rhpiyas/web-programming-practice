@@ -1,0 +1,29 @@
+Disclaimer: AI generated text is not permitted to answer the following questions.
+
+Answer the following questions:
+
+Q1. How did we set-up the project structure for frontend and
+backend code?
+Ans: 
+in frontend -> index.html, index.js, style.css(not implemented yet, but I'll when I get time)
+backend -> app.js, helper.js(just copy and paste the code)
+
+
+Q2. How did you host the frontend part of the code? Where is it hosted?
+Ans:
+I used vs code extension named "Live Server" to host the frontend in Google chrome.
+
+
+
+
+
+Q3. How did you host the backend part of the code? Where is it hosted?
+Ans:
+I used "Code Runner" vs code extension to host the backend app.js.
+
+
+Q4. What is the purpose of the helper.js file?
+Ans:
+I don't know exactly, sir.
+I just copy and paste the code of helper.js from a link that you provided.
+I'll study on it later.
