@@ -37,3 +37,14 @@ function handle(req, res)
     }
 
 }
+
+const http = require("http")
+const server = http.createServer(handle)
+
+const port = 3000
+function message()
+{
+    console.log("The server is running on http://localhost:" + port)
+}
+
+server.listen(port, message)
