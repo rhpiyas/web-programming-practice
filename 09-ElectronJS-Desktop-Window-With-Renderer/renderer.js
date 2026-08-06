@@ -8,7 +8,7 @@ bt.onclick = act
 
 function act()
 {
-    target.innerText = "My name is Rakib Hasan Piyas"
+    target.innerText = "Hello, My name is Rakib Hasan Piyas"
 }
 
 bt2.addEventListener("click", act2)
