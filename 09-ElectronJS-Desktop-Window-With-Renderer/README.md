@@ -8,6 +8,7 @@ A simple Electron.js desktop application that creates a desktop window using **H
 * Loads a local HTML file
 * Simple UI with HTML & CSS
 * JavaScript-based interaction using `renderer.js`
+* Has a Function - Show my name, Hide my name
 
 ## Project Structure
 
