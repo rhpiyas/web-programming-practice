@@ -1,2 +1,11 @@
+# Dependencies
+node_modules/
+
 # macOS
 .DS_Store
+
+# Environment
+.env
+
+# Logs
+*.log
