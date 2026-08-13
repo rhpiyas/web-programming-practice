@@ -1,0 +1,38 @@
+Where did we host the project? (Which IP address/domain/port number?)
+- 
+host the project in electron Browser Window.
+
+
+How do we run the project?
+-
+
+just command 'npm start' in the terminal
+
+We are removing a folder during submission. Why? How can your course teacher check your work
+properly if you just remove a folder?
+-
+
+node_modules size is very large. so in our blc, there is a file submition size limit.
+so we can avoid size limit. but we can easily install nude_modules by this command in terminal "npm install electron"
+
+List some runtime errors you faced during this work  (copy paste in full from the console):
+-
+
+1. duplicated invoke call
+
+2. Error occurred in handler for 'progress': TypeError: Cannot read properties of undefined (reading 'getProgress')
+    at handleProgress (/Users/rhpiyas/Library/Mobile Documents/com~apple~CloudDocs/DIU/6th Semester/Web Lab/abc/tmp-repo-desktop 2/index.js:52:14)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:118329)
+    at Session.emit (node:events:509:28)
+Error 2 is fixed in index.js (by using some lines of code from GPT, and I marked those lines using comment)
+
+Disclosure of AI usage
+-
+
+I do not use any AI even for research purpose.
+what I write, from my brain. (first submission)
+
+Supplementary submission:
+I used AI(ChatGPT) to identify some minor bugs.
+But I did not directly copy and paste AI generated code.
+I just understand the suggestion then implements the code.

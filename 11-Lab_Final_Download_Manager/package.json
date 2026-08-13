@@ -1,0 +1,26 @@
+{
+  "name": "dwp-finals-test",
+  "version": "1.0.0",
+  "description": "",
+  "startApp": "index.js",
+  "main" : "index.js",
+  "dependencies": {
+    "archiver": "^8.0.0",
+    "debug": "^4.4.3",
+    "electron": "^43.4.0",
+    "env-paths": "^3.0.0",
+    "graceful-fs": "^4.2.11",
+    "ms": "^2.1.3",
+    "progress": "^2.0.3",
+    "semver": "^7.8.5",
+    "sumchecker": "^3.0.1",
+    "undici": "^7.29.0",
+    "undici-types": "^7.18.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
