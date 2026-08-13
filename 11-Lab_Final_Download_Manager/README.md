@@ -36,11 +36,11 @@ First, clone the repository and open the project folder in the terminal.
 
 Install the required dependencies:
 
-npm install
+    npm install
 
 Then start the application:
 
-npm start
+    npm start
 
 ## How It Works
 
@@ -52,20 +52,17 @@ npm start
 
 ## Project Structure
 
-Download-Manager/
-│
-├── helper-htmls/
-│   └── download-manager.html
-│
-├── lib/
-│   └── download.js
-│
-├── index.js
-├── renderer.js
-├── preload.js
-├── tools.js
-├── package.json
-└── README.md
+    Download-Manager/
+    ├── helper-htmls/
+    │   └── download-manager.html
+    ├── lib/
+    │   └── download.js
+    ├── index.js
+    ├── renderer.js
+    ├── preload.js
+    ├── tools.js
+    ├── package.json
+    └── README.md
 
 ## Academic Purpose
 
