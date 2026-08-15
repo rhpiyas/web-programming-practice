@@ -1,0 +1,17 @@
+{
+  "name": "Quiz 3",
+  "displayName": "Rakib Hasan Piyas",
+  "version": "1.0.0",
+  "description": "Practicing for quiz 3",
+  "license": "MIT",
+  "author": "rhpiyas",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^43.4.0"
+  }
+}
